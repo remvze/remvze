@@ -11,5 +11,8 @@
 #### Security:
 - 🔑 [**PSWD**](https://pswd.mvze.net) — Simple secure password generator.
 
+#### Directories:
+- 🗃 [**Minimum**](https://minimum.mvze.net) — Simple directory of minimal websites.
+
 #### Other Tools:
 - 🧮 [**Converto**](https://converto.mvze.net) — A dead simple unit converter.
